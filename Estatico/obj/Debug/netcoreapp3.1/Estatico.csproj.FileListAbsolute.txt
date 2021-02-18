@@ -1,0 +1,13 @@
+C:\Users\Wesley\Documents\Curso C#\Estatico\bin\Debug\netcoreapp3.1\Estatico.exe
+C:\Users\Wesley\Documents\Curso C#\Estatico\bin\Debug\netcoreapp3.1\Estatico.deps.json
+C:\Users\Wesley\Documents\Curso C#\Estatico\bin\Debug\netcoreapp3.1\Estatico.runtimeconfig.json
+C:\Users\Wesley\Documents\Curso C#\Estatico\bin\Debug\netcoreapp3.1\Estatico.runtimeconfig.dev.json
+C:\Users\Wesley\Documents\Curso C#\Estatico\bin\Debug\netcoreapp3.1\Estatico.dll
+C:\Users\Wesley\Documents\Curso C#\Estatico\bin\Debug\netcoreapp3.1\Estatico.pdb
+C:\Users\Wesley\Documents\Curso C#\Estatico\obj\Debug\netcoreapp3.1\Estatico.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\Curso C#\Estatico\obj\Debug\netcoreapp3.1\Estatico.AssemblyInfoInputs.cache
+C:\Users\Wesley\Documents\Curso C#\Estatico\obj\Debug\netcoreapp3.1\Estatico.AssemblyInfo.cs
+C:\Users\Wesley\Documents\Curso C#\Estatico\obj\Debug\netcoreapp3.1\Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Curso C#\Estatico\obj\Debug\netcoreapp3.1\Estatico.dll
+C:\Users\Wesley\Documents\Curso C#\Estatico\obj\Debug\netcoreapp3.1\Estatico.pdb
+C:\Users\Wesley\Documents\Curso C#\Estatico\obj\Debug\netcoreapp3.1\Estatico.genruntimeconfig.cache

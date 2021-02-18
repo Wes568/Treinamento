@@ -1,0 +1,13 @@
+C:\Users\Wesley\Documents\Curso C#\Classe\bin\Debug\netcoreapp3.1\Classe.exe
+C:\Users\Wesley\Documents\Curso C#\Classe\bin\Debug\netcoreapp3.1\Classe.deps.json
+C:\Users\Wesley\Documents\Curso C#\Classe\bin\Debug\netcoreapp3.1\Classe.runtimeconfig.json
+C:\Users\Wesley\Documents\Curso C#\Classe\bin\Debug\netcoreapp3.1\Classe.runtimeconfig.dev.json
+C:\Users\Wesley\Documents\Curso C#\Classe\bin\Debug\netcoreapp3.1\Classe.dll
+C:\Users\Wesley\Documents\Curso C#\Classe\bin\Debug\netcoreapp3.1\Classe.pdb
+C:\Users\Wesley\Documents\Curso C#\Classe\obj\Debug\netcoreapp3.1\Classe.csprojAssemblyReference.cache
+C:\Users\Wesley\Documents\Curso C#\Classe\obj\Debug\netcoreapp3.1\Classe.AssemblyInfoInputs.cache
+C:\Users\Wesley\Documents\Curso C#\Classe\obj\Debug\netcoreapp3.1\Classe.AssemblyInfo.cs
+C:\Users\Wesley\Documents\Curso C#\Classe\obj\Debug\netcoreapp3.1\Classe.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\Documents\Curso C#\Classe\obj\Debug\netcoreapp3.1\Classe.dll
+C:\Users\Wesley\Documents\Curso C#\Classe\obj\Debug\netcoreapp3.1\Classe.pdb
+C:\Users\Wesley\Documents\Curso C#\Classe\obj\Debug\netcoreapp3.1\Classe.genruntimeconfig.cache
